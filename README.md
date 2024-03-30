@@ -2,6 +2,8 @@
 <h3 align="center">I am a second-year computer science student at Kasdi Merbah University in Ouargla,Algeria. I am passionate about cybersecurity and software engineering.</h3>
 
 - 📫 How to reach me **yak.work57@gmail.com**
+- Fourth place GDG DevFest23 BATNA Hackathon 
+- ISC2 Candidate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
