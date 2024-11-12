@@ -1,9 +1,9 @@
-<h1 align="center"> I'm Yakoub Bessalah</h1>
-<h3 align="center">I am a third-year computer science student at Kasdi Merbah University in Ouargla,Algeria. I am passionate about cybersecurity and software engineering.</h3>
+<h1 align="center"> Hello I'm Yakoub Bessalah</h1>
+<h3 align="center">I am a third-year computer science student at Kasdi Merbah University in Ouargla,Algeria. I am passionate about Networking and software engineering.</h3>
 
 - 📫 How to reach me **yak.work57@gmail.com**
-- Fourth place GDG DevFest23 BATNA Hackathon 
-- ISC2 Candidate
+- Fourth place GDG DevFest23 BATNA Hackathon 2023 
+- Graphic Designer at CNTIC Club
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
